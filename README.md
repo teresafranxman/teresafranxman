@@ -1,3 +1,3 @@
-# About Me
+## Hi, I'm Teresa 👋
 
-#### Hi 👋 I'm Teresa, a User Experience Engineer passionate about intuitive and user-centered design. 
+##### User Experience Engineer, majoring in Software Development at Dakota County Technical College. I'm passionate about intuitive and user-centered design.
