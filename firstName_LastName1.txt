@@ -1,2 +1,4 @@
 Hello! 
 My name is Teresa Franxman, and I'm majoring in Software Development at Dakota County Technical College.
+
+I'm a Web Developer from Minnesota with an eye for design.
